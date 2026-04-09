@@ -1,0 +1,16 @@
+C:\Users\1ap\source\repos\BMI kalkulator\BMI kalkulator\bin\Debug\net8.0-windows\BMI kalkulator.exe
+C:\Users\1ap\source\repos\BMI kalkulator\BMI kalkulator\bin\Debug\net8.0-windows\BMI kalkulator.deps.json
+C:\Users\1ap\source\repos\BMI kalkulator\BMI kalkulator\bin\Debug\net8.0-windows\BMI kalkulator.runtimeconfig.json
+C:\Users\1ap\source\repos\BMI kalkulator\BMI kalkulator\bin\Debug\net8.0-windows\BMI kalkulator.dll
+C:\Users\1ap\source\repos\BMI kalkulator\BMI kalkulator\bin\Debug\net8.0-windows\BMI kalkulator.pdb
+C:\Users\1ap\source\repos\BMI kalkulator\BMI kalkulator\obj\Debug\net8.0-windows\BMI_kalkulator.Form1.resources
+C:\Users\1ap\source\repos\BMI kalkulator\BMI kalkulator\obj\Debug\net8.0-windows\BMI kalkulator.csproj.GenerateResource.cache
+C:\Users\1ap\source\repos\BMI kalkulator\BMI kalkulator\obj\Debug\net8.0-windows\BMI kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1ap\source\repos\BMI kalkulator\BMI kalkulator\obj\Debug\net8.0-windows\BMI kalkulator.AssemblyInfoInputs.cache
+C:\Users\1ap\source\repos\BMI kalkulator\BMI kalkulator\obj\Debug\net8.0-windows\BMI kalkulator.AssemblyInfo.cs
+C:\Users\1ap\source\repos\BMI kalkulator\BMI kalkulator\obj\Debug\net8.0-windows\BMI kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\1ap\source\repos\BMI kalkulator\BMI kalkulator\obj\Debug\net8.0-windows\BMI kalkulator.dll
+C:\Users\1ap\source\repos\BMI kalkulator\BMI kalkulator\obj\Debug\net8.0-windows\refint\BMI kalkulator.dll
+C:\Users\1ap\source\repos\BMI kalkulator\BMI kalkulator\obj\Debug\net8.0-windows\BMI kalkulator.pdb
+C:\Users\1ap\source\repos\BMI kalkulator\BMI kalkulator\obj\Debug\net8.0-windows\BMI kalkulator.genruntimeconfig.cache
+C:\Users\1ap\source\repos\BMI kalkulator\BMI kalkulator\obj\Debug\net8.0-windows\ref\BMI kalkulator.dll
